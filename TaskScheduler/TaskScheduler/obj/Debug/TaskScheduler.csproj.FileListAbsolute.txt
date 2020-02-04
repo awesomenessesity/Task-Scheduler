@@ -1,0 +1,19 @@
+c:\users\alex\documents\visual studio 2015\Projects\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe
+c:\users\alex\documents\visual studio 2015\Projects\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.pdb
+c:\users\alex\documents\visual studio 2015\Projects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.Form1.resources
+c:\users\alex\documents\visual studio 2015\Projects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.exe
+c:\users\alex\documents\visual studio 2015\Projects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.pdb
+D:\sched\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe.config
+D:\sched\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe
+D:\sched\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.pdb
+D:\sched\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csprojResolveAssemblyReference.cache
+D:\sched\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.Form1.resources
+D:\sched\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.Properties.Resources.resources
+D:\sched\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.GenerateResource.Cache
+D:\sched\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.CoreCompileInputs.cache
+D:\sched\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.exe
+D:\sched\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.pdb
